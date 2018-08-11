@@ -15,6 +15,8 @@
 
 [![Throughput Graph](https://graphs.waffle.io/ipld/go-ipld/throughput.svg)](https://waffle.io/ipld/go-ipld/metrics/throughput)
 
+[**`Weekly Core Dev Calls`**](https://github.com/ipfs/pm/issues/674)
+
 ## IPLD Repos
 
 Check the current IPLD Work at the following repos:
