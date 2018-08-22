@@ -23,7 +23,7 @@ Listing of dependencies from the IPLD ecosystem.
 
 > This table is generated using the module `package-table` with `package-table --data=package-list.json`.
 
-| Package | CI | Coverage |
+| Name | CI | Coverage |
 | ---------|---------|--------- |
 | **IPLD Formats** |
 | [`ipld-format`](//github.com/ipfs/go-ipld-format) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-format.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-format) | [![codecov](https://codecov.io/gh/ipfs/go-ipld-format/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-format) |
@@ -37,7 +37,6 @@ Listing of dependencies from the IPLD ecosystem.
 | [`cid`](//github.com/ipfs/go-cid) | [![Travis CI](https://travis-ci.org/ipfs/go-cid.svg?branch=master)](https://travis-ci.org/ipfs/go-cid) | [![codecov](https://codecov.io/gh/ipfs/go-cid/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-cid) |
 | **Generics/Utils** |
 | [`is-ipfs`](//github.com/ipfs/is-ipfs) | [![jenkins](https://ci.ipfs.team/buildStatus/icon?job=ipfs/is-ipfs/master)](https://ci.ipfs.team/job/ipfs/job/is-ipfs/job/master/) | [![codecov](https://codecov.io/gh/ipfs/is-ipfs/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/is-ipfs) |
-
 
 ## Contribute
 

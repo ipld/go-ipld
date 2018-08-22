@@ -1,6 +1,6 @@
 {
   "columns": [
-    "Package",
+    "Name",
     "CI",
     "Coverage"
   ],
