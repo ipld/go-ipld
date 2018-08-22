@@ -1,0 +1,23 @@
+{
+  "columns": [
+    "Package",
+    "CI",
+    "Coverage"
+  ],
+  "rows": [
+    "IPLD Formats",
+    ["ipfs/go-ipld-format", "ipld-format"],
+    ["ipfs/go-ipld-cbor", "ipld-cbor"],
+    ["ipfs/go-ipld-git", "ipld-git"],
+    ["ipfs/go-ipld-eth", "ipld-eth"],
+    ["ipfs/go-ipld-btc", "ipld-btc"],
+    ["ipfs/go-ipld-zcash", "ipld-zcash"],
+
+    "Data Types (non IPLD specific)",
+    ["multiformats/go-multihash", "multihashes"],
+    ["ipfs/go-cid", "cid"],
+
+    "Generics/Utils",
+    ["ipfs/is-ipfs", "is-ipfs"]
+  ]
+}
