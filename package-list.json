@@ -15,9 +15,6 @@
 
     "Data Types (non IPLD specific)",
     ["multiformats/go-multihash", "multihashes"],
-    ["ipfs/go-cid", "cid"],
-
-    "Generics/Utils",
-    ["ipfs/is-ipfs", "is-ipfs"]
+    ["ipfs/go-cid", "cid"]
   ]
 }

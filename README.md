@@ -19,9 +19,9 @@
 
 ## Packages
 
-Listing of dependencies from the IPLD ecosystem.
+> This table is generated using the module [`package-table`](https://github.com/ipfs-shipyard/package-table) with `package-table --data=package-list.json`.
 
-> This table is generated using the module `package-table` with `package-table --data=package-list.json`.
+Listing of dependencies from the IPLD ecosystem.
 
 | Name | CI | Coverage |
 | ---------|---------|--------- |
@@ -35,8 +35,6 @@ Listing of dependencies from the IPLD ecosystem.
 | **Data Types (non IPLD specific)** |
 | [`multihashes`](//github.com/multiformats/go-multihash) | [![Travis CI](https://travis-ci.org/multiformats/go-multihash.svg?branch=master)](https://travis-ci.org/multiformats/go-multihash) | [![codecov](https://codecov.io/gh/multiformats/go-multihash/branch/master/graph/badge.svg)](https://codecov.io/gh/multiformats/go-multihash) |
 | [`cid`](//github.com/ipfs/go-cid) | [![Travis CI](https://travis-ci.org/ipfs/go-cid.svg?branch=master)](https://travis-ci.org/ipfs/go-cid) | [![codecov](https://codecov.io/gh/ipfs/go-cid/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-cid) |
-| **Generics/Utils** |
-| [`is-ipfs`](//github.com/ipfs/is-ipfs) | [![jenkins](https://ci.ipfs.team/buildStatus/icon?job=ipfs/is-ipfs/master)](https://ci.ipfs.team/job/ipfs/job/is-ipfs/job/master/) | [![codecov](https://codecov.io/gh/ipfs/is-ipfs/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/is-ipfs) |
 
 ## Contribute
 
