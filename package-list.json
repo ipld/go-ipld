@@ -1,7 +1,8 @@
 {
   "columns": [
     "Name",
-    "CI",
+    "CI/Travis",
+    "CI/Jenkins",
     "Coverage"
   ],
   "rows": [
