@@ -17,16 +17,24 @@
 
 [**`Weekly Core Dev Calls`**](https://github.com/ipfs/pm/issues/674)
 
-## IPLD Repos
+## Packages
 
-Check the current IPLD Work at the following repos:
-- Content ID / CID: https://github.com/ipfs/go-cid
-- Node interface for IPLD: https://github.com/ipfs/go-ipld-format
-- CBOR IPLD Node: https://github.com/ipfs/go-ipld-cbor
-- Git IPLD Node: https://github.com/ipfs/go-ipld-git
-- Ethereum IPLD Node: https://github.com/ipfs/go-ipld-eth
-- Bitcoin IPLD Node: https://github.com/ipfs/go-ipld-btc
-- Zcash IPLD Node: https://github.com/ipfs/go-ipld-zcash
+> This table is generated using the module [`package-table`](https://github.com/ipfs-shipyard/package-table) with `package-table --data=package-list.json`.
+
+Listing of dependencies from the IPLD ecosystem.
+
+| Name | CI/Travis | CI/Jenkins | Coverage |
+| ---------|---------|---------|--------- |
+| **IPLD Formats** |
+| [`ipld-format`](//github.com/ipfs/go-ipld-format) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-format.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-format) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-format/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-format) |
+| [`ipld-cbor`](//github.com/ipfs/go-ipld-cbor) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-cbor.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-cbor) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-cbor/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-cbor) |
+| [`ipld-git`](//github.com/ipfs/go-ipld-git) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-git.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-git) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-git/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-git) |
+| [`ipld-eth`](//github.com/ipfs/go-ipld-eth) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-eth.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-eth) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-eth/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-eth) |
+| [`ipld-btc`](//github.com/ipfs/go-ipld-btc) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-btc.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-btc) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-btc/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-btc) |
+| [`ipld-zcash`](//github.com/ipfs/go-ipld-zcash) | [![Travis CI](https://travis-ci.org/ipfs/go-ipld-zcash.svg?branch=master)](https://travis-ci.org/ipfs/go-ipld-zcash) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-ipld-zcash/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-ipld-zcash) |
+| **Data Types (non IPLD specific)** |
+| [`multihashes`](//github.com/multiformats/go-multihash) | [![Travis CI](https://travis-ci.org/multiformats/go-multihash.svg?branch=master)](https://travis-ci.org/multiformats/go-multihash) | N/A | [![codecov](https://codecov.io/gh/multiformats/go-multihash/branch/master/graph/badge.svg)](https://codecov.io/gh/multiformats/go-multihash) |
+| [`cid`](//github.com/ipfs/go-cid) | [![Travis CI](https://travis-ci.org/ipfs/go-cid.svg?branch=master)](https://travis-ci.org/ipfs/go-cid) | N/A | [![codecov](https://codecov.io/gh/ipfs/go-cid/branch/master/graph/badge.svg)](https://codecov.io/gh/ipfs/go-cid) |
 
 ## Contribute
 
