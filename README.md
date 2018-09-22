@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/freenode-%23ipfs-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs)
 [![](https://img.shields.io/badge/pm-waffle-blue.svg?style=flat-square")](https://waffle.io/ipld/go-ipld)
 
-> The JavaScript implementation of the IPLD, InterPlanetary Linked-Data
+> The Golang implementation of the IPLD, InterPlanetary Linked-Data
 
 ## Project Status
 
